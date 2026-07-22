@@ -1,8 +1,8 @@
 
 # Nome dos envolvidos:
-# Vitor Dias Ferreira, Numero USP: 16971111
-# Mariana Vitoria Martins de Miranda, Numero USP: 14228153
-# Adryann Henrique Oliveira Olivatti , Numero USP: 17363240
+# Vitor Dias Ferreira
+# Mariana Vitoria Martins de Miranda
+# Adryann Henrique Oliveira Olivatti 
 
 ------------------------
 # Projeto: Backtest Coorte
